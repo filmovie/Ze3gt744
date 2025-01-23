@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=3310003,CODECS="avc1.64081f,mp4a.40.2",RESOLUTION=1280x720
+https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w200160577.m3u8
