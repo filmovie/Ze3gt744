@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=544100,RESOLUTION=854x480
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
