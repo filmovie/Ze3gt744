@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=444100,RESOLUTION=426x240,NAME="240p"
+https://cdn13jtedge.indihometv.com/joss/134/daaitv/chunklist_w264383547_b444100_sleng.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=644100,RESOLUTION=640x360,NAME="360p"
+https://cdn13jtedge.indihometv.com/joss/134/daaitv/chunklist_w264383547_b644100_sleng.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=944100,RESOLUTION=960x540,NAME="540p"
+https://cdn13jtedge.indihometv.com/joss/134/daaitv/chunklist_w264383547_b944100_sleng.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1044100,RESOLUTION=1280x720,NAME="720p"
+https://cdn13jtedge.indihometv.com/joss/134/daaitv/chunklist_w264383547_b1044100_sleng.m3u8
